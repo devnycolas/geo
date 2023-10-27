@@ -5,7 +5,7 @@
 ## Projeto feito no curso de Django Framework
 Um geolocalizador que necessita da cidade e do tipo de estabelecimento como parâmetro de busca
 
-## 🛠 Tecnologias
+## 💻 Tecnologias
 
 - Python
 - Django Framework
@@ -13,6 +13,6 @@ Um geolocalizador que necessita da cidade e do tipo de estabelecimento como par�
 - Biblioteca GeoIP que fornece acesso a bancos de dados GeoIP
 - Git e Github
 
-## 💛 Contato
+## 💙 Contato
 
 dev.nycolas@outlook.com
